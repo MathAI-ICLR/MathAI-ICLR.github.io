@@ -41,7 +41,7 @@ Submissions to Math-AI 2021 are limited to 4 pages of content, but may contain a
 
 All submissions must be formatted with LaTeX using the [ICLR paper format(adapted)](img/iclr2021.zip).
 
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
+All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the MATH-AI homepage, but are to be considered non-archival. 
 
 Submission Link: <!--[https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020 )-->
 
