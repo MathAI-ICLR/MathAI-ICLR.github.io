@@ -1,29 +1,29 @@
-veronika:
+ywu:
   name: "Yuhuai (Tony) Wu"
   url: "http://www.cs.toronto.edu/~ywu/"
   affiliation: "University of Toronto"
   img: "ywu.jpg"
-kartik:
+kbansal:
   name: "Kshitij Bansal"
   url: "https://kshitij.io/"
   affiliation: "Google Research"
   img: "kbansal.jpg"
-svivek:
+wli:
   name: "Wenda Li"
   url: "https://www.cl.cam.ac.uk/~wl302/"
   affiliation: "University of Cambridge"
   img: "wli.jpg"
-czhang:
+mmitchell:
   name: "Melanie Mitchell"
   url: "https://melaniemitchell.me/"
   affiliation: "Santa Fe Institute"
   img: "mmitchell.jpg"
-jtenen:
+dmcallester:
   name: "David McAllester"
   url: "https://ttic.uchicago.edu/~dmcallester/"
   affiliation: "TTI Chicago"
   img: "dmcallester.jpg"
-czhang:
+jharrison:
   name: "John Harrison"
   url: "https://www.cl.cam.ac.uk/~jrh13/"
   affiliation: "Amazon"
