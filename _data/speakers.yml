@@ -9,5 +9,33 @@ jmcclelland:
     name: "Jay McClelland"
     url: "https://stanford.edu/~jlmcc/"
     affiliation: "Stanford University"
-    img: "jmcclelland.jpg"
+    img: "jmcclelland.png"
     bio: "Jay McClelland is the Lucie Stern Professor in the Psychology Department and Co-Director of the Center for Mind, Brain, Computation and Technology at Stanford University. He is best known for his work in laying the foundations of the connectionist approach. In recent years, his lab has begun exploring the domain of mathematical cognition, in particular, the various kinds of mathematical concepts and reasoning abilities employed by humans, including the grounding of symbols in visual diagrams, the numerical sense of humans, and others."
+
+tgowers:
+    name: "Timothy Gowers"
+    url: "https://www.dpmms.cam.ac.uk/~wtg10/"
+    affiliation: "University of Cambridge"
+    img: "tgowers.png"
+    bio: "Timothy Gowersis a professor at the Faculty of Mathematics in the University of Cambridge. He was awarded the Fields Medal in 1998 for his valuable contributions in combinatorics and functional analysis and by finding new connections between these two areas of mathematics. He is also interested in the idea of extreme human-oriented automated theorem proving which aims to integrate the top-down approach found in human reasoning with the bottom-up process of machine calculations."
+
+spolu:
+    name: "Stanislas Polu"
+    url: "https://spolu.now.sh/"
+    affiliation: "OpenAI"
+    img: "spolu.png"
+    bio: "Stanislas Polu is a research engineer at OpenAI working on the study of generative language models applied to automated theorem proving. He is notable for his work called GPT-f which is the first large-scale language model for the MetaMath theorem prover."
+
+mrabe:
+    name: "Markus Rabe"
+    url: "https://research.google/people/106335/"
+    affiliation: "Google"
+    img: "mrabe.png"
+    bio: "Markus Rabe is a researcher in automated reasoning. He is a member of the N2Formal team at Google Research, which attempts to build a bridge between logic and natural language using deep neural networks. Before joining Google, Markus was a postdoc at UC Berkeley, and obtained his PhD at Saarland University."
+    
+jurban:
+    name: "Josef Urban"
+    url: "http://cs.ru.nl/~urban/"
+    affiliation: "Czech Institute of Informatics, Robotics and Cybernetics"
+    img: "jurban.png"
+    bio: "Josef Urban is a principal researcher at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC). He has been working on automated reasoning for about two decades. He is a main contributor to one of the earliest and influential theorem prover -- Mizar. He is also actively working on applying machine learning methods to automated theorem proving, with recent works including premise selection, auto-formalization, conjecturing, and more."
