@@ -12,17 +12,17 @@ sess1:
   type: "Session"
 oetzioni:
   event: "oetzioni"
-  title: "Revisiting McCarthy's Advice Taker"
+  title: ""
   start: "09:05"
   type: "Invited"
 vlin:
   event: "vlin"
-  title: "Bridging Textual and Tabular Data: Is Attention All We Need?"
+  title: ""
   start: "09:35"
   type: "Invited"
 rockt:
   event: "rockt"
-  title: "A Shot at Bridging the Knowledge Gap in Reinforcement Learning"
+  title: ""
   start: "10:05"
   type: "Invited"
 qa1:
@@ -51,17 +51,17 @@ sess2:
 #   type: "Spotlights"
 jleskt:
   event: "jleskt"
-  title: "Reasoning in Knowledge Graphs using Embeddings"
+  title: ""
   start: "11:05"
   type: "Invited"
 hji:
   event: "hji"
-  title: "Bring Structures and Symbols back to Knowledge Representation"
+  title: ""
   start: "11:35"
   type: "Invited"
 jwu:
   event: "jwu"
-  title: "Neuro-Symbolic Visual Concept Learning"
+  title: ""
   start: "12:05"
   type: "Invited"
 qa2:
@@ -82,18 +82,18 @@ panel1:
   start: "14:00"
   type: "Panel"
 contrib0:
-  event: "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation."
-  author: "Mrigank Raman"
+  event: "TBD"
+  author: "TBD"
   start: "14:45"
   type: "Contributed"
 contrib1:
-  event: "Symbolic Plans as High-Level Instructions for Reinforcement Learning (Abridged)."
-  author: "Leon Illanes"
+  event: "TBD"
+  author: "TBD"
   start: "15:00"
   type: "Contributed"
 contrib2:
-  event: "Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs."
-  author: "Hongyu Ren"
+  event: "TBD"
+  author: "TBD"
   start: "15:15"
   type: "Contributed"
 qa3:
@@ -154,12 +154,12 @@ sess4:
   type: "Session"
 ybengio:
   event: "ybengio"
-  title: "Deep Learning of Conscious Processing Over Verbalizable Knowledge"
+  title: ""
   start: "16:00"
   type: "Invited"
 panel2:
-  event: "Where and how can KRR benefit ML, and what should be explored?"
-  speakers: "Oren Etzioni, Heng Ji, Victoria Lin, Jiajun Wu, Subbarao Kambhampati."
+  event: ""
+  speakers: ""
   start: "16:35"
   type: "Panel"
 closing:
