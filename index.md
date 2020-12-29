@@ -1,7 +1,7 @@
 ---
 layout: page
-title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+title: Math-AI
+subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
 <div class="sharethis-inline-share-buttons"></div>
@@ -9,17 +9,21 @@ use-site-title: true
 
 # Overview
 
-Machine learning (ML) has seen a tremendous amount of recent success and has been applied in a variety of applications. However, it comes with several drawbacks, such as the need for large amounts of training data and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KRR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KRR and ML. The 4th KR2ML workshop will be a [virtual workshop at NeurIPS 2020](https://nips.cc/Conferences/2020/Schedule?showEvent=16122), Dec. 11. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating KRR and ML.
+The machine learning community in the past decade has greatly advanced methods for recognizing perceptual patterns (e.g., image recognition, object detection), thanks to advancements in neural network research. However, one defining property of advanced intelligence – reasoning – requires a much deeper understanding of the data beyond the perceptual level; it requires extraction of higher-level symbolic patterns or rules. Unfortunately, deep neural networks have not yet demonstrated the ability to succeed in reasoning.
+
+In this workshop, we focus on a particular kind of reasoning ability, namely, mathematical reasoning. Advanced mathematical reasoning is unique in human intelligence, and it is also a fundamental building block for many intellectual pursuits and scientific developments. We believe that addressing this problem has the potential to shed light on a path towards general reasoning mechanisms, and hence general artificial intelligence. Therefore, we would like to bring together a group of experts from various backgrounds to discuss the role of mathematical reasoning ability towards the path of demonstrating general artificial intelligence. In addition, we hope to identify missing elements and major bottlenecks towards demonstrating mathematical reasoning ability in AI systems. 
+
+To fully address these questions, we believe that it is crucial to hear from experts in various fields: machine learning/AI leaders who assess the possibility of the approach; cognitive scientists who study human reasoning for mathematical problems; formal reasoning specialists who work on automated theorem proving; mathematicians who work on informal math theorem proving. We hope that the outcome of the workshop will lead us in meaningful directions towards a generic approach to mathematical reasoning, and shed light on general reasoning mechanisms for artificial intelligence.
 
 <!-- | ------------- |:-------------:|
 | **Submission** | October 09, 2020 (midnight Pacific Time) |
 | **Notification** | October 30, 2020 |
 | **Submission link**| [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020) -->
 
-* Thank you Amazon for sponsoring a best paper award!
+<!--* Thank you Amazon for sponsoring a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
 * <a href="schedule">The schedule is online now!</a> 
-* <a href="papers">List of accepted papers available!</a> 
+* <a href="papers">List of accepted papers available!</a> -->
 <!--* **NEW** Updates to existing submissions possible until October 12 (11:59pm Pacific Time) <br>New submissions close on October 09 (11:59pm Pacific Time)-->
 
 
@@ -95,4 +99,4 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 
 <hr>
 
-Contact: <kr2ml.ws@gmail.com>.
+Contact: <mathai.iclr2021@gmail.com>.
