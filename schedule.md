@@ -1,13 +1,13 @@
 ---
 layout: page
-title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+title: Math-AI
+subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
 
 # Schedule
 
-#### Friday, December 11, 2020 
+#### Saturday, May 08, 2021
 #### All times are in PST (UTC -8)
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
 <!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->

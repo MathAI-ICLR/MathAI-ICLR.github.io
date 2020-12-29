@@ -35,7 +35,7 @@ mrabe:
     
 jurban:
     name: "Josef Urban"
-    url: "http://cs.ru.nl/~urban/"
-    affiliation: "Czech Institute of Informatics, Robotics and Cybernetics"
-    img: "jurban.png"
+    url: "https://people.ciirc.cvut.cz/~urbanjo3/"
+    affiliation: "CIIRC"
+    img: "jurban.jpg"
     bio: "Josef Urban is a principal researcher at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC). He has been working on automated reasoning for about two decades. He is a main contributor to one of the earliest and influential theorem prover -- Mizar. He is also actively working on applying machine learning methods to automated theorem proving, with recent works including premise selection, auto-formalization, conjecturing, and more."
