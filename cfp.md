@@ -10,14 +10,14 @@ The Math-AI workshop is intended to provide a forum for discussing missing eleme
 
 In particular, we are interested two broad areas of questions: 
 
-1. Mathematical reasoning vs. general intelligence?
+Mathematical reasoning vs. general intelligence?
 
 * What is a potential path from mathematical reasoning to general artificial intelligence?
 * What is special about mathematical reasoning compared to other reasoning tasks?
 * What are the pros and cons of studying mathematical reasoning?
 * Can the lessons learned from mathematical reasoning generalize to other reasoning tasks?
 
-2. What machine learning techniques are we missing in the quest for machines that perform mathematical reasoning?
+What machine learning techniques are we missing in the quest for machines that perform mathematical reasoning?
 
 * How to deal with large action space – hopeless exploration in mathematical reasoning?
 * How to design methods that allow flexible planning and jumpy reasoning?
