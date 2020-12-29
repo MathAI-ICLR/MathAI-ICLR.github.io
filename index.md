@@ -33,7 +33,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
-  {% if forloop.index<=5 %}
+  {% if forloop.index<=3 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endif %}
@@ -42,7 +42,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>5 and forloop.index<=10%}
+  {% if forloop.index>3 and forloop.index<=6%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -50,7 +50,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>10%}
+  {% if forloop.index>6%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -65,16 +65,26 @@ To fully address these questions, we believe that it is crucial to hear from exp
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
+  {% for p in site.data.organizers %}
+  {% if forloop.index<=3 %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>3 and forloop.index<=6%}
     {% include profile.html p=p %}
+    {% endif %}
     {% endfor %}
   </div>
 </div>
 <hr>
 
-# Program Committee
-<!-- prettier-ignore -->
+<!--# Program Committee
+<!-- prettier-ignore 
 <div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
@@ -82,7 +92,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
     {% endfor %}
   </ul>
 </div>
-<hr>
+<hr>-->
 
 # Related Venues
 
