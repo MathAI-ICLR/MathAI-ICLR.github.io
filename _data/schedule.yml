@@ -153,7 +153,7 @@ sess4:
   start: ""
   type: "Session"
 ybengio:
-  event: "ybengio"
+  event: ""
   title: ""
   start: "16:00"
   type: "Invited"
