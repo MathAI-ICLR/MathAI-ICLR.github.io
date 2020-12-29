@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math-AI
+title: MATH-AI
 subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
