@@ -1,7 +1,7 @@
 ---
 layout: page
-title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+title: Math-AI
+subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
 
