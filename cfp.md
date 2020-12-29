@@ -1,45 +1,48 @@
 ---
 layout: page
-title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+title: Math-AI
+subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
 
 # Call for Papers
-We invite papers that describe innovative combinations of symbolic knowledge representation/reasoning approaches and learning: including new methodology, datasets, evaluations, surveys, reproduced results, and negative results.
+The Math-AI workshop is intended to provide a forum for discussing missing elements and major bottlenecks towards demonstrating mathematical reasoning ability in AI systems. We hope that the outcome of the workshop will lead us in meaningful directions towards a generic approach to mathematical reasoning, and shed light on general reasoning mechanisms for artificial intelligence.
 
-The KR2ML workshop is intended to provide a forum for discussing new approaches and challenges in integrating KRR and ML approaches, and for exchanging ideas about how to move the area forward. 
+In particular, we are interested two broad areas of questions: 
 
-Topics of interest for all kinds of submissions include, but are not limited to:
-- Successful integrations of ML and KRR-based techniques.
-- Approaches that tackle problems in the integration of ML and KRR techniques (e.g., datasets).
-- ML-based solutions to problems in KRR systems, or the other way round.
-- Applications in various domains (e.g., natural language processing, computer vision).
+1. Mathematical reasoning vs. general intelligence?
 
-### Important Dates 
+* What is a potential path from mathematical reasoning to general artificial intelligence?
+* What is special about mathematical reasoning compared to other reasoning tasks?
+* What are the pros and cons of studying mathematical reasoning?
+* Can the lessons learned from mathematical reasoning generalize to other reasoning tasks?
+
+2. What machine learning techniques are we missing in the quest for machines that perform mathematical reasoning?
+
+* How to deal with large action space – hopeless exploration in mathematical reasoning?
+* How to design methods that allow flexible planning and jumpy reasoning?
+* How to collect large scale datasets for mathematical reasoning?
+* Can one augment the dataset by designing good synthetic datasets?
+* How do we utilize informal mathematical datasets?
+* Human-like theorem proving vs formal theorem proving using ITPs (interactive theorem provers), trade-offs?
+* Do we need a special theorem proving assistant for machine learning?
+
+### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Submission:** October 09 (11:59pm Pacific Time) <br>
-*Updates to existing papers possible until October 12 (11:59pm Pacific Time)*<br>
-**Notification:** October 30 <br>
-**Workshop:** December 11
+**Submission:** Feb 09 (11:59pm Pacific Time) <br>
+*Updates to existing papers possible until Feb 12 (11:59pm Pacific Time)*<br>
+**Notification:** Feb 30 <br>
+**Workshop:** March 08
 
 ### Submission Requirements
 
-Submissions to KR2ML 2020 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The submission process is double-blind.
+Submissions to Math-AI 2021 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The submission process is double-blind.
 
-All submissions must be formatted with LaTeX using the [NeurIPS paper format (adapted)](img/KR2ML2020_template.zip).
+All submissions must be formatted with LaTeX using the [ICLR paper format(adapted)](img/iclr2021.zip).
 
 All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
 
-Submission Link: [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020 )
+Submission Link: <!--[https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020 )-->
 
-Please email any enquiries to [kr2ml.ws@gmail.com](mailto:kr2ml.ws@gmail.com)
-
-### Best Paper Awards
-Three best paper awards will selected, based on scientific merit, impact, and clarity. A $500.00 USD cash prize will be awarded to the 1st prize best paper. Best paper awards are nominated by program committee and judged by the Best Paper award committee. 
-
-Award sponsor:<br>
-<a href='https://www.amazon.science/'><img src="{{site.url}}/2020/img/amazon_science.png" height="140px"></a>
-
-
+Please email any enquiries to [mathai.iclr2021@gmail.com](mailto:mathai.iclr2021@gmail.com)
