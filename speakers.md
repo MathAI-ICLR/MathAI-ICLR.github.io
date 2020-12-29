@@ -5,7 +5,7 @@ subtitle: The Role of Mathematical Reasoning in General Artificial Intelligence
 use-site-title: true
 ---
 
-# Speakers
+# Speakers & Panelists
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<8 %}
