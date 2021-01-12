@@ -30,10 +30,10 @@ What machine learning techniques are we missing in the quest for machines that p
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Submission:** Feb 09 (11:59pm Pacific Time) <br>
+**Submission:** Feb 18 (11:59pm Pacific Time) <br>
 *Updates to existing papers possible until Feb 12 (11:59pm Pacific Time)*<br>
-**Notification:** Feb 30 <br>
-**Workshop:** March 08
+**Notification:** March 18 <br>
+**Workshop:** May 08
 
 ### Submission Requirements
 
