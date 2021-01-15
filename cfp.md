@@ -30,10 +30,10 @@ What machine learning techniques are we missing in the quest for machines that p
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Submission:** Feb 09 (11:59pm Pacific Time) <br>
+**Submission:** Feb 18 (11:59pm Pacific Time) <br>
 *Updates to existing papers possible until Feb 12 (11:59pm Pacific Time)*<br>
-**Notification:** Feb 30 <br>
-**Workshop:** March 08
+**Notification:** March 18 <br>
+**Workshop:** May 08
 
 ### Submission Requirements
 
@@ -41,7 +41,7 @@ Submissions to Math-AI 2021 are limited to 4 pages of content, but may contain a
 
 All submissions must be formatted with LaTeX using the [ICLR paper format(adapted)](img/iclr2021.zip).
 
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
+All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the MATH-AI homepage, but are to be considered non-archival. 
 
 Submission Link: <!--[https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020 )-->
 
