@@ -33,7 +33,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
-  {% if forloop.index<=3 %}
+  {% if forloop.index<=5 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endif %}
