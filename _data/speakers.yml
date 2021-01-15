@@ -5,13 +5,6 @@ ybengio:
     img: "yoshua.jpg"
     bio: "Yoshua Bengio is Professor in the Computer Science and Operations Research departments at U. Montreal, founder and scientific director of Mila and of IVADO. He is a Fellow of the Royal Society of London and of the Royal Society of Canada, has received a Canada Research Chair and a Canada CIFAR AI Chair and is a recipient of the 2018 Turing Award for pioneering deep learning, is an officer of the Order of Canada, a member of the NeurIPS advisory board, co-founder and member of the board of the ICLR conference, and program director of the CIFAR program on Learning in Machines and Brains. His goal is to contribute to uncovering the principles giving rise to intelligence through learning, as well as favour the development of AI for the benefit of all."
 
-jmcclelland:
-    name: "Jay McClelland"
-    url: "https://stanford.edu/~jlmcc/"
-    affiliation: "Stanford University"
-    img: "jmcclelland.png"
-    bio: "Jay McClelland is the Lucie Stern Professor in the Psychology Department and Co-Director of the Center for Mind, Brain, Computation and Technology at Stanford University. He is best known for his work in laying the foundations of the connectionist approach. In recent years, his lab has begun exploring the domain of mathematical cognition, in particular, the various kinds of mathematical concepts and reasoning abilities employed by humans, including the grounding of symbols in visual diagrams, the numerical sense of humans, and others."
-
 tgowers:
     name: "Timothy Gowers"
     url: "https://www.dpmms.cam.ac.uk/~wtg10/"
@@ -25,6 +18,14 @@ mjamnik:
     affiliation: "University of Cambridge"
     img: "mateja.jpg"
     bio: "Mateja Jamnik is a full Professor of Artificial Intelligence in the Department of Computer Science and Technology at the University of Cambridge, UK. She is also an associate fellow at the Leverhulme Centre for the Future of Intelligence. She is interested in human intuitive reasoning and want to make computers think intuitively too. Her research area covers artificial intelligence, human-like computation, machine learning, automated reasoning, diagrammatic reasoning, knowledge representation, theorem proving, cognitive science, human-computer interaction."
+
+jmcclelland:
+    name: "Jay McClelland"
+    url: "https://stanford.edu/~jlmcc/"
+    affiliation: "Stanford University"
+    img: "jmcclelland.png"
+    bio: "Jay McClelland is the Lucie Stern Professor in the Psychology Department and Co-Director of the Center for Mind, Brain, Computation and Technology at Stanford University. He is best known for his work in laying the foundations of the connectionist approach. In recent years, his lab has begun exploring the domain of mathematical cognition, in particular, the various kinds of mathematical concepts and reasoning abilities employed by humans, including the grounding of symbols in visual diagrams, the numerical sense of humans, and others."
+
 
 alison:
     name: "Alison Pease"
