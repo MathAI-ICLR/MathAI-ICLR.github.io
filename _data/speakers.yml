@@ -26,12 +26,12 @@ mjamnik:
     img: "mateja.jpg"
     bio: "Mateja Jamnik is a full Professor of Artificial Intelligence in the Department of Computer Science and Technology at the University of Cambridge, UK. She is also an associate fellow at the Leverhulme Centre for the Future of Intelligence. She is interested in human intuitive reasoning and want to make computers think intuitively too. Her research area covers artificial intelligence, human-like computation, machine learning, automated reasoning, diagrammatic reasoning, knowledge representation, theorem proving, cognitive science, human-computer interaction."
 
-mjamnik:
+alison:
     name: "Alison Pease"
     url: "http://staff.computing.dundee.ac.uk/alisonpease/"
     affiliation: "University of Dundee"
     img: "alison.jpg"
-    bio: "Alison Pease is a senior lecturer in the School of Science and Engineering at the University of Dundee. Her research is concerned with investigating patterns of collaboration, reasoning and discovery, and incorporating findings into computational systems. She works mostly in mathematics, and believes that this will help us to close the gap between machine and human mathematics, both enhancing interaction between mathematicians and computers, and enabling machines to automatically generate interesting mathematics. She also apply these ideas to scientific domains, and other areas including music, poetry and health. 
+    bio: "Alison Pease is a senior lecturer in the School of Science and Engineering at the University of Dundee. Her research is concerned with investigating patterns of collaboration, reasoning and discovery, and incorporating findings into computational systems. She works mostly in mathematics, and believes that this will help us to close the gap between machine and human mathematics, both enhancing interaction between mathematicians and computers, and enabling machines to automatically generate interesting mathematics. She also apply these ideas to scientific domains, and other areas including music, poetry and health."
 
 spolu:
     name: "Stanislas Polu"
