@@ -19,6 +19,20 @@ tgowers:
     img: "tgowers.png"
     bio: "Timothy Gowersis a professor at the Faculty of Mathematics in the University of Cambridge. He was awarded the Fields Medal in 1998 for his valuable contributions in combinatorics and functional analysis and by finding new connections between these two areas of mathematics. He is also interested in the idea of extreme human-oriented automated theorem proving which aims to integrate the top-down approach found in human reasoning with the bottom-up process of machine calculations."
 
+mjamnik:
+    name: "Mateja Jamnik"
+    url: "https://www.cl.cam.ac.uk/~mj201/index.html"
+    affiliation: "University of Cambridge"
+    img: "mateja.jpg"
+    bio: "Mateja Jamnik is a full Professor of Artificial Intelligence in the Department of Computer Science and Technology at the University of Cambridge, UK. She is also an associate fellow at the Leverhulme Centre for the Future of Intelligence. She is interested in human intuitive reasoning and want to make computers think intuitively too. Her research area covers artificial intelligence, human-like computation, machine learning, automated reasoning, diagrammatic reasoning, knowledge representation, theorem proving, cognitive science, human-computer interaction."
+
+mjamnik:
+    name: "Alison Pease"
+    url: "http://staff.computing.dundee.ac.uk/alisonpease/"
+    affiliation: "University of Dundee"
+    img: "alison.jpg"
+    bio: "Alison Pease is a senior lecturer in the School of Science and Engineering at the University of Dundee. Her research is concerned with investigating patterns of collaboration, reasoning and discovery, and incorporating findings into computational systems. She works mostly in mathematics, and believes that this will help us to close the gap between machine and human mathematics, both enhancing interaction between mathematicians and computers, and enabling machines to automatically generate interesting mathematics. She also apply these ideas to scientific domains, and other areas including music, poetry and health. 
+
 spolu:
     name: "Stanislas Polu"
     url: "https://spolu.now.sh/"
@@ -33,6 +47,13 @@ mrabe:
     img: "mrabe.png"
     bio: "Markus Rabe is a researcher in automated reasoning. He is a member of the N2Formal team at Google Research, which attempts to build a bridge between logic and natural language using deep neural networks. Before joining Google, Markus was a postdoc at UC Berkeley, and obtained his PhD at Saarland University."
     
+cszegedy:
+    name: "Christian Szegedy"
+    url: "https://scholar.google.com/citations?user=3QeF7mAAAAAJ&hl=en"
+    affiliation: "Google"
+    img: "christian.jpg"
+    bio: "Christian is famous for the Inception neural architecture, for co-inventing batch normalization, and for many more contributions to AI.  Since 2017 he and his group have been focusing on AI and mathematics."
+
 jurban:
     name: "Josef Urban"
     url: "https://people.ciirc.cvut.cz/~urbanjo3/"
