@@ -42,7 +42,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>3 and forloop.index<=6%}
+  {% if forloop.index>5 and forloop.index<=10%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -50,7 +50,7 @@ To fully address these questions, we believe that it is crucial to hear from exp
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>6%}
+  {% if forloop.index>10%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
