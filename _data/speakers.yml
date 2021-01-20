@@ -8,9 +8,9 @@ ybengio:
 tgowers:
     name: "Timothy Gowers"
     url: "https://www.dpmms.cam.ac.uk/~wtg10/"
-    affiliation: "University of Cambridge"
+    affiliation: "Collège de France"
     img: "tgowers.png"
-    bio: "Timothy Gowersis a professor at the Faculty of Mathematics in the University of Cambridge. He was awarded the Fields Medal in 1998 for his valuable contributions in combinatorics and functional analysis and by finding new connections between these two areas of mathematics. He is also interested in the idea of extreme human-oriented automated theorem proving which aims to integrate the top-down approach found in human reasoning with the bottom-up process of machine calculations."
+    bio: "Timothy Gowers is the holder of a chair in combinatorics at the Collège de France, and a fellow of Trinity College, Cambridge. He was awarded the Fields Medal in 1998 for his valuable contributions in combinatorics and functional analysis and by finding new connections between these two areas of mathematics. He is also interested in the idea of extreme human-oriented automated theorem proving which aims to integrate the top-down approach found in human reasoning with the bottom-up process of machine calculations."
 
 mjamnik:
     name: "Mateja Jamnik"
