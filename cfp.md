@@ -43,6 +43,6 @@ All submissions must be formatted with LaTeX using the [ICLR paper format(adapte
 
 All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the MATH-AI homepage, but are to be considered non-archival. 
 
-Submission Link: [ https://cmt3.research.microsoft.com/ICLRRMRGAI2021](https://cmt3.research.microsoft.com/ICLRRMRGAI2021,)
+Submission Link: [ https://cmt3.research.microsoft.com/MATHAIICLR2021](https://cmt3.research.microsoft.com/MATHAIICLR2021)
 
 Please email any enquiries to [mathai.iclr2021@gmail.com](mailto:mathai.iclr2021@gmail.com)
