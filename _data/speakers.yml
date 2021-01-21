@@ -39,7 +39,7 @@ spolu:
     url: "https://spolu.now.sh/"
     affiliation: "OpenAI"
     img: "spolu.png"
-    bio: "Stanislas Polu is a research engineer at OpenAI working on the study of generative language models applied to automated theorem proving. He is notable for his work called GPT-f which is the first large-scale language model for the MetaMath theorem prover."
+    bio: "Stanislas Polu is a research engineer at OpenAI working on the study of generative language models applied to automated theorem proving. He is notable for his work called GPT-f which is the first large-scale language model for the MetaMath and Lean theorem provers."
 
 mrabe:
     name: "Markus Rabe"
