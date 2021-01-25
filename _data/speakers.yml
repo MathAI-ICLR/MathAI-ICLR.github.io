@@ -17,8 +17,7 @@ mjamnik:
     url: "https://www.cl.cam.ac.uk/~mj201/index.html"
     affiliation: "University of Cambridge"
     img: "mateja.jpg"
-    bio: "Mateja Jamnik is a full Professor of Artificial Intelligence in the Department of Computer Science and Technology at the University of Cambridge, UK. She is also an associate fellow at the Leverhulme Centre for the Future of Intelligence. She is interested in human intuitive reasoning and want to make computers think intuitively too. Her research area covers artificial intelligence, human-like computation, machine learning, automated reasoning, diagrammatic reasoning, knowledge representation, theorem proving, cognitive science, human-computer interaction."
-
+    bio: "Mateja Jamnik is Professor of Artificial Intelligence at the Department of Computer Science and Technology of the University of Cambridge, UK. She is developing AI techniques for human-like computing - she computationally models how people solve problems to enable machines to reason in a similar way to humans. She combines AI reasoning with machine learning techniques to apply them to medical data to advance personalised cancer medicine, and to education to personalise tutoring systems. Mateja is passionate about bringing science closer to the public and engages frequently with the media and public science events. Her active support of women scientists was recognised by the Royal Society which awarded her the Athena Prize. Mateja has been advising the UK government on policy direction in relation to the impact of AI on society."
 jmcclelland:
     name: "Jay McClelland"
     url: "https://stanford.edu/~jlmcc/"
