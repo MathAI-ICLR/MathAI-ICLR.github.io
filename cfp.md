@@ -27,6 +27,12 @@ What machine learning techniques are we missing in the quest for machines that p
 * Human-like theorem proving vs formal theorem proving using ITPs (interactive theorem provers), trade-offs?
 * Do we need a special theorem proving assistant for machine learning?
 
+We are also interested in works on other reasoning problems that share similar structures, and can bring great insights to mathematical reasoning, such as,
+* Program synthesis
+* Code verification
+* Retrosynthesis problem
+* Text games
+
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
