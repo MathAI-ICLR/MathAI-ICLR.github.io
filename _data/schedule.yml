@@ -50,11 +50,11 @@ svivek:
   event: "svivek"
   start: "14:30-15:00"
   type: "Invited"
-poster1:
-  event: "Poster Session + Chats"
+poster2:
+  event: "Poster Session2"
   start: "15:00-15:30"
   type: "General"
-break2:
+break3:
   event: "Coffee Break"
   title: ""
   start: "15:30-16:00"
