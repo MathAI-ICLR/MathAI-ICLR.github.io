@@ -39,7 +39,7 @@ We are also interested in works on other reasoning problems that share similar s
 **Submission:** Feb 26 (11:59pm Pacific Time) <br>
 **Notification:** March 26 (11:59pm Pacific Time) <br>
 **Camera Ready:** April 26 (11:59pm Pacific Time) <br>
-**Workshop:** May 08 
+**Workshop:** May 07 
 
 ### Submission Requirements
 
