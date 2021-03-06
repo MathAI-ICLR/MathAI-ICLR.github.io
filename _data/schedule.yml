@@ -1,168 +1,79 @@
-teasers:
-  event: "Poster Teasers"
-  start: "08:40"
-  type: "General"
 opening:
-  event: "Opening"
-  start: "09:00"
+  event: "Introduction and Opening Remarks"
+  start: "08:55-09:00"
   type: "General"
-sess1:
-  event: "Session 1"
-  start: ""
-  type: "Session"
 oetzioni:
   event: "oetzioni"
   title: ""
-  start: "09:05"
+  start: "09:00-09:30"
   type: "Invited"
 vlin:
   event: "vlin"
   title: ""
-  start: "09:35"
+  start: "09:30-10:00"
   type: "Invited"
-rockt:
-  event: "rockt"
-  title: ""
-  start: "10:05"
-  type: "Invited"
-qa1:
-  event: "QA"
-  start: "10:35"
+poster1:
+  event: "Poster Session 1"
+  start: "10:00-10:30"
   type: "General"
 break1:
-  event: "Break"
-  start: "10:50"
-  type: "Break"
-sess2:
-  event: "Session 2"
-  start: ""
-  type: "Session"
-# contrib2:
-#   event: "paper_13"
-#   start: "8:50"
-#   type: "Contributed"
-# contrib3:
-#   event: "paper_18"
-#   start: "9:05"
-#   type: "Contributed"
-# spotlightsA:
-#   event: "Poster Spotlights A"
-#   start: "9:20"
-#   type: "Spotlights"
+  event: "Coffee Break"
+  title: ""
+  start: "10:30-11:00"
+  type: "General"
 jleskt:
   event: "jleskt"
   title: ""
-  start: "11:05"
+  start: "11:00-11:30"
   type: "Invited"
-hji:
-  event: "hji"
-  title: ""
-  start: "11:35"
-  type: "Invited"
-jwu:
-  event: "jwu"
-  title: ""
-  start: "12:05"
-  type: "Invited"
-qa2:
-  event: "QA"
-  start: "12:35"
-  type: "General"
-break2:
-  event: "Poster Session + Chats"
-  start: "12:50"
-  type: "General"
-sess3:
-  event: "Session 3"
-  start: ""
-  type: "Session"
-panel1:
-  event: ""
-  speakers: ""
-  start: "14:00"
-  type: "Panel"
-contrib0:
-  event: "TBD"
-  author: "TBD"
-  start: "14:45"
-  type: "Contributed"
 contrib1:
   event: "TBD"
   author: "TBD"
-  start: "15:00"
+  start: "11:30-12:00"
   type: "Contributed"
+break2:
+  event: "Lunch Break"
+  title: ""
+  start: "12:00-13:00"
+  type: "General"
+panel1:
+  event: ""
+  speakers: ""
+  start: "13:00-14:00"
+  type: "Panel"  
+jwu:
+  event: "jwu"
+  title: ""
+  start: "14:00-14:30"
+  type: "Invited"
+svivek:
+  event: "svivek"
+  start: "14:30-15:00"
+  type: "Invited"
+poster1:
+  event: "Poster Session + Chats"
+  start: "15:00-15:30"
+  type: "General"
+break2:
+  event: "Coffee Break"
+  title: ""
+  start: "15:30-16:00"
+  type: "General"
+frossi:
+  event: "frossi"
+  start: "16:00-16:30"
+  type: "Invited"
 contrib2:
   event: "TBD"
   author: "TBD"
-  start: "15:15"
+  start: "16:30-17:00"
   type: "Contributed"
-qa3:
-  event: "QA"
-  start: "15:30"
-  type: "General"
-break3:
-  event: "Break"
-  start: "15:45"
-  type: "Break"
-# contrib7:
-#   event: "paper_35"
-#   start: "11:45"
-#   type: "Contributed"
-# svivek:
-#   event: "svivek"
-#   start: "12:00"
-#   type: "Invited"
-# lunch:
-#   event: "Lunch"
-#   start: "12:30"
-#   type: "Break"
-# frossi:
-#   event: "frossi"
-#   start: "2:00"
-#   type: "Invited"
-# contrib8:
-#   event: "paper_52"
-#   start: "2:30"
-#   type: "Contributed"
-# contrib9:
-#   event: "paper_19"
-#   start: "2:45"
-#   type: "Contributed"
-# contrib10:
-#   event: "paper_4"
-#   start: "3:00"
-#   type: "Contributed"
-# spotlightsB:
-#   event: "Poster Spotlights B"
-#   start: "3:15"
-#   type: "Spotlights"
-# break:
-#   event: "Coffee + Poster Session"
-#   start: "3:30"
-#   type: "Break"
-# guyvdb:
-#   event: "yejin"
-#   start: "4:15"
-#   type: "Invited"
-# yejin:
-#   event: "guyvdb"
-#   start: "4:45"
-#   type: "Invited"
-sess4:
-  event: "Session 4"
-  start: ""
-  type: "Session"
-ybengio:
-  event: ""
-  title: ""
-  start: "16:00"
-  type: "Invited"
-panel2:
-  event: ""
-  speakers: ""
-  start: "16:35"
-  type: "Panel"
+contrib3:
+  event: "TBD"
+  author: "TBD"
+  start: "17:00-17:30"
+  type: "Contributed"
 closing:
   event: "Closing Remarks"
-  start: "17:20"
+  start: "17:30-17:35"
   type: "General"
